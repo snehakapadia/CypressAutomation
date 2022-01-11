@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Testing a basic scenario in Flink
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.14 s - in Testing a basic scenario in Flink
